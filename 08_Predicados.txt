@@ -2,16 +2,15 @@ RESUMEN: Predicados Xpath
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
-[predicado] :Para encontrar nuestra información debemos ser más especificos, para ello
-sirve los predicados.
+    * [predicado] :Para encontrar nuestra información debemos ser más especificos, para ello sirve los predicados.
+
 Predicados :
 
-n : Hace referencia al n elemento de la lista.
-last(): Al último elemento de la lista.
-@atribute_name : Al usarse como predicado me trae todos los nodos
-que contienen este atributo
-@atribute_name="" : Al usarse como predicado me trae todos los nodos
-que contienen este atributo, incluso el value de este atributo.
+    * n : Hace referencia al n elemento de la lista.
+    * last(): Al último elemento de la lista.
+    * @atribute_name : Al usarse como predicado me trae todos los nodos que contienen este atributo
+    * @atribute_name="" : Al usarse como predicado me trae todos los nodos que contienen este atributo, incluso el value de este atributo.
+
 Ejemplos:
 
 # Para extraer solo uno de los div del div container usamos un predicado
