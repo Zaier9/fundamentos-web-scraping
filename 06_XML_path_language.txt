@@ -1,1 +1,0 @@
-XPATH es un lenguaje que es utilizado para la extracción de datos por las similitudes que comparte con html. Define la ruta que se debe seguir para llegar al lugar dentro de html de donde queremos extraer la información.
